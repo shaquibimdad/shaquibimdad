@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Nothing😭
 
-- 🌱 I’m currently learning C & Javascript
+- 🌱 I’m currently learning C & javaScript()
 
 - 👯 I’m looking to collaborate on linux kernel
 
