@@ -11,8 +11,8 @@
         Shaquib Imdad(Developer)
             <span>┃   </span>  
             <span>┣━━ </span>Languages 
-            <span>┃   </span><span>┣━━ </span>Javascript        
-            <span>┃   </span><span>┣━━ </span>Typescript
-            <span>┃   </span><span>┗━━ </span>Python
+            <span>┃   </span><span>┣━━ </span><img src="https://raw.githubusercontent.com/shaquibimdad/shaquibimdad/main/assets/js.svg"/>Javascript        
+            <span>┃   </span><span>┣━━ </span><img src="https://raw.githubusercontent.com/shaquibimdad/shaquibimdad/main/assets/ts.svg"/>Typescript
+            <span>┃   </span><span>┗━━ </span><img src="https://raw.githubusercontent.com/shaquibimdad/shaquibimdad/main/assets/py.svg"/>Python
             <span>┃   </span>
     </pre>
